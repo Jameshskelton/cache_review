@@ -1,0 +1,310 @@
+/Users/jamesskelton/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Logging to runs/sessions.jsonl
+
+[DeepSeek V4.1 Flash] moby @ ~50000 tok
+  t 1 prompt=  51453 cached=      0 (  0.0%) out= 248 $0.015734 cum=$0.01573  7.13s
+  t 2 prompt=  51552 cached=  51392 ( 99.7%) out= 300 $0.000716 cum=$0.01645  5.01s
+  t 3 prompt=  51565 cached=      0 (  0.0%) out= 300 $0.015829 cum=$0.03228  8.30s
+  t 4 prompt=  51579 cached=  51520 ( 99.9%) out= 300 $0.000687 cum=$0.03297  6.57s
+  t 5 prompt=  51593 cached=  51520 ( 99.9%) out= 300 $0.000691 cum=$0.03366  5.44s
+  t 6 prompt=  51605 cached=      0 (  0.0%) out= 300 $0.015842 cum=$0.04950  8.19s
+  t 7 prompt=  51618 cached=  51584 ( 99.9%) out= 230 $0.000596 cum=$0.05009  6.29s
+  t 8 prompt=  51684 cached=  51584 ( 99.8%) out= 285 $0.000682 cum=$0.05078  5.63s
+  t 9 prompt=  51767 cached=      0 (  0.0%) out= 300 $0.015890 cum=$0.06667  8.58s
+  t10 prompt=  51780 cached=  51520 ( 99.5%) out= 216 $0.000646 cum=$0.06731  5.24s
+  t11 prompt=  51846 cached=  51776 ( 99.9%) out= 300 $0.000692 cum=$0.06800  5.95s
+  t12 prompt=  51864 cached=  51648 ( 99.6%) out= 178 $0.000588 cum=$0.06859  4.04s
+  t13 prompt=  51932 cached=  51840 ( 99.8%) out= 146 $0.000514 cum=$0.06911  3.62s
+  t14 prompt=  51983 cached=  51904 ( 99.8%) out= 300 $0.000695 cum=$0.06980  6.33s
+  t15 prompt=  51995 cached=  51968 ( 99.9%) out= 163 $0.000516 cum=$0.07032  4.08s
+
+[DeepSeek V4.1 Flash] quixote @ ~50000 tok
+  t 1 prompt=  50706 cached=      0 (  0.0%) out= 300 $0.015572 cum=$0.01557  7.97s
+  t 2 prompt=  50720 cached=      0 (  0.0%) out= 300 $0.015576 cum=$0.03115  7.86s
+  t 3 prompt=  50733 cached=  50688 ( 99.9%) out= 216 $0.000577 cum=$0.03172  4.46s
+  t 4 prompt=  50832 cached=  50688 ( 99.7%) out= 294 $0.000700 cum=$0.03242  5.29s
+  t 5 prompt=  50890 cached=      0 (  0.0%) out= 300 $0.015627 cum=$0.04805  7.67s
+  t 6 prompt=  50902 cached=  50880 (100.0%) out= 288 $0.000657 cum=$0.04871  5.86s
+  t 7 prompt=  51011 cached=  50688 ( 99.4%) out= 147 $0.000577 cum=$0.04929  3.45s
+  t 8 prompt=  51090 cached=  51008 ( 99.8%) out= 187 $0.000555 cum=$0.04984  3.61s
+  t 9 prompt=  51154 cached=  51072 ( 99.8%) out= 300 $0.000691 cum=$0.05053  5.88s
+  t10 prompt=  51167 cached=  51136 ( 99.9%) out= 138 $0.000482 cum=$0.05101  2.71s
+  t11 prompt=  51231 cached=  51136 ( 99.8%) out= 178 $0.000549 cum=$0.05156  3.10s
+  t12 prompt=  51282 cached=  50816 ( 99.1%) out= 256 $0.000752 cum=$0.05232  5.29s
+  t13 prompt=  51349 cached=  51200 ( 99.7%) out= 184 $0.000573 cum=$0.05289  7.37s
+  t14 prompt=  51400 cached=  51328 ( 99.9%) out= 192 $0.000560 cum=$0.05345  4.64s
+  t15 prompt=  51460 cached=  51392 ( 99.9%) out= 122 $0.000475 cum=$0.05392  3.25s
+
+[DeepSeek V4.1 Flash] warpeace @ ~50000 tok
+  t 1 prompt=  49755 cached=      0 (  0.0%) out= 300 $0.015286 cum=$0.01529  8.07s
+  t 2 prompt=  49785 cached=  49728 ( 99.9%) out= 300 $0.000675 cum=$0.01596  5.22s
+  t 3 prompt=  49798 cached=      0 (  0.0%) out= 222 $0.015206 cum=$0.03117  7.07s
+  t 4 prompt=  49883 cached=  49792 ( 99.8%) out= 252 $0.000628 cum=$0.03180  4.16s
+  t 5 prompt=  49938 cached=  49856 ( 99.8%) out= 300 $0.000684 cum=$0.03248  5.00s
+  t 6 prompt=  49950 cached=  49728 ( 99.6%) out= 300 $0.000725 cum=$0.03320  5.48s
+  t 7 prompt=  49970 cached=  49920 ( 99.9%) out= 300 $0.000675 cum=$0.03388  5.31s
+  t 8 prompt=  49980 cached=      0 (  0.0%) out= 211 $0.015247 cum=$0.04913  6.06s
+  t 9 prompt=  50052 cached=  49920 ( 99.7%) out= 300 $0.000699 cum=$0.04983  6.64s
+  t10 prompt=  50065 cached=      0 (  0.0%) out= 300 $0.015380 cum=$0.06521  8.77s
+  t11 prompt=  50078 cached=  50048 ( 99.9%) out= 193 $0.000541 cum=$0.06575  4.43s
+  t12 prompt=  50141 cached=  50048 ( 99.8%) out= 111 $0.000461 cum=$0.06621  3.32s
+  t13 prompt=  50205 cached=  50048 ( 99.7%) out= 100 $0.000467 cum=$0.06667  2.84s
+  t14 prompt=  50260 cached=  49920 ( 99.3%) out= 300 $0.000762 cum=$0.06744  6.41s
+  t15 prompt=  50329 cached=  50112 ( 99.6%) out= 147 $0.000542 cum=$0.06798  2.78s
+
+[DeepSeek V4 Flash 0731] moby @ ~50000 tok
+  t 1 prompt=  51508 cached=      0 (  0.0%) out= 300 $0.004196 cum=$0.00420 13.08s
+  t 2 prompt=  51522 cached=  51456 ( 99.9%) out= 300 $0.001378 cum=$0.00557 10.15s
+  t 3 prompt=  51535 cached=      0 (  0.0%) out= 300 $0.004198 cum=$0.00977 12.64s
+  t 4 prompt=  51549 cached=      0 (  0.0%) out= 300 $0.004200 cum=$0.01397 12.51s
+  t 5 prompt=  51563 cached=  51456 ( 99.8%) out= 300 $0.001381 cum=$0.01535 10.39s
+  t 6 prompt=  51575 cached=  51456 ( 99.8%) out= 300 $0.001382 cum=$0.01673 10.31s
+  t 7 prompt=  51588 cached=  51456 ( 99.7%) out= 300 $0.001383 cum=$0.01812 11.46s
+  t 8 prompt=  51598 cached=      0 (  0.0%) out= 300 $0.004203 cum=$0.02232 13.10s
+  t 9 prompt=  51610 cached=  51456 ( 99.7%) out= 300 $0.001385 cum=$0.02371  9.10s
+  t10 prompt=  51623 cached=  51456 ( 99.7%) out= 300 $0.001386 cum=$0.02509 10.88s
+  t11 prompt=  51636 cached=  51456 ( 99.7%) out= 276 $0.001381 cum=$0.02647  9.22s
+  t12 prompt=  51690 cached=      0 (  0.0%) out= 300 $0.004211 cum=$0.03068 12.33s
+  t13 prompt=  51704 cached=  51456 ( 99.5%) out= 300 $0.001392 cum=$0.03207  9.78s
+  t14 prompt=  51722 cached=  51456 ( 99.5%) out= 300 $0.001394 cum=$0.03347  9.70s
+  t15 prompt=  51734 cached=  51712 (100.0%) out= 187 $0.001352 cum=$0.03482  6.28s
+
+[DeepSeek V4 Flash 0731] quixote @ ~50000 tok
+  t 1 prompt=  50764 cached=      0 (  0.0%) out= 300 $0.004137 cum=$0.00414 12.80s
+  t 2 prompt=  50809 cached=  50688 ( 99.8%) out= 300 $0.001363 cum=$0.00550 11.02s
+  t 3 prompt=  50822 cached=  50688 ( 99.7%) out= 300 $0.001364 cum=$0.00686 10.14s
+  t 4 prompt=  50877 cached=  50688 ( 99.6%) out= 300 $0.001368 cum=$0.00823  9.22s
+  t 5 prompt=  50891 cached=  50688 ( 99.6%) out= 300 $0.001369 cum=$0.00960  9.49s
+  t 6 prompt=  50903 cached=  50688 ( 99.6%) out= 300 $0.001370 cum=$0.01097 10.08s
+  t 7 prompt=  50916 cached=  50688 ( 99.6%) out= 300 $0.001371 cum=$0.01234  9.31s
+  t 8 prompt=  50926 cached=  50688 ( 99.5%) out= 300 $0.001372 cum=$0.01371 10.26s
+  t 9 prompt=  50938 cached=  50688 ( 99.5%) out= 300 $0.001373 cum=$0.01509  9.58s
+  t10 prompt=  50951 cached=  50688 ( 99.5%) out= 300 $0.001374 cum=$0.01646 15.17s
+  t11 prompt=  50964 cached=      0 (  0.0%) out= 300 $0.004153 cum=$0.02061 12.06s
+  t12 prompt=  50982 cached=  50944 ( 99.9%) out= 300 $0.001362 cum=$0.02198 10.58s
+  t13 prompt=  50996 cached=  50944 ( 99.9%) out= 300 $0.001364 cum=$0.02334 10.00s
+  t14 prompt=  51014 cached=  50944 ( 99.9%) out= 300 $0.001365 cum=$0.02470  9.85s
+  t15 prompt=  51026 cached=  50944 ( 99.8%) out= 300 $0.001366 cum=$0.02607  9.05s
+
+[DeepSeek V4 Flash 0731] warpeace @ ~50000 tok
+  t 1 prompt=  49804 cached=      0 (  0.0%) out= 228 $0.004042 cum=$0.00404 12.14s
+  t 2 prompt=  49903 cached=      0 (  0.0%) out= 300 $0.004068 cum=$0.00811 13.35s
+  t 3 prompt=  49916 cached=      0 (  0.0%) out= 300 $0.004069 cum=$0.01218 12.35s
+  t 4 prompt=  49930 cached=  49664 ( 99.5%) out= 300 $0.001348 cum=$0.01353  9.79s
+  t 5 prompt=  49944 cached=  49920 (100.0%) out= 300 $0.001336 cum=$0.01486  9.71s
+  t 6 prompt=  49956 cached=      0 (  0.0%) out= 300 $0.004072 cum=$0.01893 12.98s
+  t 7 prompt=  49969 cached=  49920 ( 99.9%) out= 300 $0.001338 cum=$0.02027 10.21s
+  t 8 prompt=  49979 cached=  49920 ( 99.9%) out= 300 $0.001338 cum=$0.02161  9.10s
+  t 9 prompt=  49991 cached=  49664 ( 99.3%) out= 300 $0.001353 cum=$0.02296  9.53s
+  t10 prompt=  50004 cached=      0 (  0.0%) out= 300 $0.004076 cum=$0.02704 12.91s
+  t11 prompt=  50017 cached=  49920 ( 99.8%) out= 300 $0.001341 cum=$0.02838 10.45s
+  t12 prompt=  50035 cached=  49920 ( 99.8%) out= 300 $0.001343 cum=$0.02972  9.04s
+  t13 prompt=  50049 cached=  49920 ( 99.7%) out= 300 $0.001344 cum=$0.03107  9.05s
+  t14 prompt=  50067 cached=  49920 ( 99.7%) out= 300 $0.001345 cum=$0.03241 10.47s
+  t15 prompt=  50079 cached=  49920 ( 99.7%) out= 300 $0.001346 cum=$0.03376  9.83s
+
+[GLM-5.3 Flash] moby @ ~50000 tok
+  t 1 prompt=  51250 cached=      0 (  0.0%) out= 155 $0.007765 cum=$0.00777  4.07s
+  t 2 prompt=  51417 cached=  50688 ( 98.6%) out= 121 $0.001690 cum=$0.00946  2.61s
+  t 3 prompt=  51518 cached=  50688 ( 98.4%) out= 280 $0.001785 cum=$0.01124  4.77s
+  t 4 prompt=  51806 cached=  50688 ( 97.8%) out= 191 $0.001784 cum=$0.01302  2.61s
+  t 5 prompt=  51913 cached=  50688 ( 97.6%) out= 187 $0.001798 cum=$0.01482  5.72s
+  t 6 prompt=  52070 cached=  51840 ( 99.6%) out= 281 $0.001730 cum=$0.01655  3.70s
+  t 7 prompt=  52358 cached=  51840 ( 99.0%) out= 272 $0.001769 cum=$0.01832  3.87s
+  t 8 prompt=  52636 cached=  51840 ( 98.5%) out= 257 $0.001803 cum=$0.02012  3.51s
+  t 9 prompt=  52894 cached=  51840 ( 98.0%) out= 227 $0.001827 cum=$0.02195  3.04s
+  t10 prompt=  53052 cached=  51840 ( 97.7%) out= 300 $0.001887 cum=$0.02384  4.19s
+  t11 prompt=  53354 cached=  52992 ( 99.3%) out=  29 $0.001659 cum=$0.02550  1.71s
+  t12 prompt=  53399 cached=  52992 ( 99.2%) out= 175 $0.001738 cum=$0.02724  2.68s
+  t13 prompt=  53582 cached=  52992 ( 98.9%) out= 125 $0.001741 cum=$0.02898  3.37s
+  t14 prompt=  53723 cached=  52992 ( 98.6%) out= 187 $0.001793 cum=$0.03077  2.23s
+  t15 prompt=  53910 cached=  52992 ( 98.3%) out= 101 $0.001778 cum=$0.03255  2.09s
+
+[GLM-5.3 Flash] quixote @ ~50000 tok
+  t 1 prompt=  50363 cached=      0 (  0.0%) out= 191 $0.007650 cum=$0.00765  3.25s
+  t 2 prompt=  50566 cached=  49536 ( 98.0%) out= 179 $0.001730 cum=$0.00938  2.81s
+  t 3 prompt=  50714 cached=  49536 ( 97.7%) out= 300 $0.001813 cum=$0.01119  3.49s
+  t 4 prompt=  51024 cached=  50688 ( 99.3%) out= 102 $0.001622 cum=$0.01281  2.07s
+  t 5 prompt=  51133 cached=  50688 ( 99.1%) out= 300 $0.001737 cum=$0.01455  4.46s
+  t 6 prompt=  51379 cached=  50688 ( 98.7%) out= 300 $0.001774 cum=$0.01633  6.38s
+  t 7 prompt=  51685 cached=  50688 ( 98.1%) out= 300 $0.001820 cum=$0.01815  3.81s
+  t 8 prompt=  51991 cached=  50688 ( 97.5%) out= 289 $0.001861 cum=$0.02001  3.09s
+  t 9 prompt=  52282 cached=  51840 ( 99.2%) out= 300 $0.001772 cum=$0.02178  3.06s
+  t10 prompt=  52416 cached=  51840 ( 98.9%) out= 295 $0.001789 cum=$0.02357  3.92s
+  t11 prompt=  52718 cached=  51840 ( 98.3%) out=  71 $0.001722 cum=$0.02529  2.56s
+  t12 prompt=  52777 cached=  51840 ( 98.2%) out= 248 $0.001820 cum=$0.02711  5.94s
+  t13 prompt=  53032 cached=  51840 ( 97.8%) out= 149 $0.001808 cum=$0.02892  2.04s
+  t14 prompt=  53180 cached=  52992 ( 99.6%) out= 300 $0.001768 cum=$0.03069  4.18s
+  t15 prompt=  53491 cached=  52992 ( 99.1%) out= 102 $0.001716 cum=$0.03240  2.55s
+
+[GLM-5.3 Flash] warpeace @ ~50000 tok
+  t 1 prompt=  49138 cached=      0 (  0.0%) out= 162 $0.007452 cum=$0.00745  3.96s
+  t 2 prompt=  49312 cached=  48384 ( 98.1%) out= 169 $0.001675 cum=$0.00913  3.39s
+  t 3 prompt=  49431 cached=  48384 ( 97.9%) out= 300 $0.001759 cum=$0.01089  4.12s
+  t 4 prompt=  49744 cached=  49536 ( 99.6%) out= 184 $0.001609 cum=$0.01249  8.09s
+  t 5 prompt=  49905 cached=  49536 ( 99.3%) out= 300 $0.001691 cum=$0.01419  9.24s
+  t 6 prompt=  50183 cached=  49536 ( 98.7%) out= 300 $0.001733 cum=$0.01592  5.31s
+  t 7 prompt=  50489 cached=  49536 ( 98.1%) out= 300 $0.001779 cum=$0.01770  6.69s
+  t 8 prompt=  50795 cached=  49536 ( 97.5%) out= 300 $0.001825 cum=$0.01952  9.54s
+  t 9 prompt=  51099 cached=  50688 ( 99.2%) out= 300 $0.001732 cum=$0.02126  5.23s
+  t10 prompt=  51112 cached=  50688 ( 99.2%) out= 300 $0.001734 cum=$0.02299  3.99s
+  t11 prompt=  51421 cached=  50688 ( 98.6%) out=  45 $0.001653 cum=$0.02464  1.94s
+  t12 prompt=  51482 cached=  50688 ( 98.5%) out= 286 $0.001783 cum=$0.02643  3.78s
+  t13 prompt=  51775 cached=  50688 ( 97.9%) out=  82 $0.001725 cum=$0.02815  2.28s
+  t14 prompt=  51869 cached=  50688 ( 97.7%) out= 300 $0.001848 cum=$0.03000  4.85s
+  t15 prompt=  52176 cached=  51840 ( 99.4%) out=  93 $0.001652 cum=$0.03165  2.08s
+
+[DeepSeek V4.1 Flash] moby @ ~200000 tok
+  t 1 prompt= 201850 cached=      0 (  0.0%) out= 300 $0.060915 cum=$0.06091 18.46s
+  t 2 prompt= 201922 cached=      0 (  0.0%) out= 300 $0.060937 cum=$0.12185 18.29s
+  t 3 prompt= 201935 cached= 201792 ( 99.9%) out= 300 $0.001614 cum=$0.12347  6.35s
+  t 4 prompt= 201949 cached=      0 (  0.0%) out= 300 $0.060945 cum=$0.18441 27.34s
+  t 5 prompt= 202005 cached= 201920 (100.0%) out= 300 $0.001597 cum=$0.18601  8.46s
+  t 6 prompt= 202017 cached= 201920 (100.0%) out= 288 $0.001586 cum=$0.18759  7.19s
+  t 7 prompt= 202089 cached= 201984 ( 99.9%) out= 189 $0.001470 cum=$0.18906  5.37s
+  t 8 prompt= 202176 cached=      0 (  0.0%) out= 300 $0.061013 cum=$0.25008 17.84s
+  t 9 prompt= 202193 cached= 201920 ( 99.9%) out= 300 $0.001653 cum=$0.25173  8.46s
+  t10 prompt= 202206 cached= 201984 ( 99.9%) out= 202 $0.001521 cum=$0.25325  4.61s
+  t11 prompt= 202291 cached= 202176 ( 99.9%) out= 158 $0.001437 cum=$0.25469  3.91s
+  t12 prompt= 202331 cached= 202176 ( 99.9%) out= 265 $0.001578 cum=$0.25627 21.43s
+  t13 prompt= 202399 cached= 202240 ( 99.9%) out= 296 $0.001616 cum=$0.25788  7.56s
+  t14 prompt= 202498 cached= 202112 ( 99.8%) out= 300 $0.001688 cum=$0.25957  6.55s
+  t15 prompt= 202510 cached= 202496 (100.0%) out= 232 $0.001498 cum=$0.26107  6.04s
+
+[DeepSeek V4.1 Flash] quixote @ ~200000 tok
+  t 1 prompt= 200369 cached=      0 (  0.0%) out= 300 $0.060471 cum=$0.06047 18.68s
+  t 2 prompt= 200383 cached=      0 (  0.0%) out= 300 $0.060475 cum=$0.12095 18.48s
+  t 3 prompt= 200396 cached= 200320 (100.0%) out= 300 $0.001585 cum=$0.12253  7.63s
+  t 4 prompt= 200410 cached= 200384 (100.0%) out= 300 $0.001570 cum=$0.12410  6.85s
+  t 5 prompt= 200424 cached= 200384 (100.0%) out= 300 $0.001574 cum=$0.12567  5.55s
+  t 6 prompt= 200436 cached=      0 (  0.0%) out= 300 $0.060491 cum=$0.18617 18.45s
+  t 7 prompt= 200449 cached= 200320 ( 99.9%) out= 300 $0.001601 cum=$0.18777  6.66s
+  t 8 prompt= 200459 cached= 200448 (100.0%) out= 300 $0.001566 cum=$0.18933  8.05s
+  t 9 prompt= 200471 cached= 200384 (100.0%) out= 300 $0.001588 cum=$0.19092  6.26s
+  t10 prompt= 200484 cached= 200384 (100.0%) out= 300 $0.001592 cum=$0.19251  5.87s
+  t11 prompt= 200497 cached=      0 (  0.0%) out= 300 $0.060509 cum=$0.25302 19.29s
+  t12 prompt= 200515 cached= 200448 (100.0%) out= 300 $0.001583 cum=$0.25460  6.38s
+  t13 prompt= 200582 cached= 200448 ( 99.9%) out= 300 $0.001603 cum=$0.25621  7.39s
+  t14 prompt= 200600 cached= 200448 ( 99.9%) out= 291 $0.001597 cum=$0.25781  8.24s
+  t15 prompt= 200677 cached= 200448 ( 99.9%) out= 242 $0.001562 cum=$0.25937  5.86s
+
+[DeepSeek V4.1 Flash] warpeace @ ~200000 tok
+  t 1 prompt= 197554 cached=      0 (  0.0%) out= 300 $0.059626 cum=$0.05963 18.22s
+  t 2 prompt= 197607 cached= 197504 ( 99.9%) out= 300 $0.001576 cum=$0.06120  6.13s
+  t 3 prompt= 197620 cached=      0 (  0.0%) out= 300 $0.059646 cum=$0.12085 18.99s
+  t 4 prompt= 197647 cached=      0 (  0.0%) out= 300 $0.059654 cum=$0.18050 19.16s
+  t 5 prompt= 197661 cached= 197632 (100.0%) out= 300 $0.001554 cum=$0.18206  6.70s
+  t 6 prompt= 197673 cached= 197568 ( 99.9%) out= 299 $0.001576 cum=$0.18363  6.19s
+  t 7 prompt= 197803 cached= 197632 ( 99.9%) out= 300 $0.001597 cum=$0.18523  6.25s
+  t 8 prompt= 197853 cached= 197568 ( 99.9%) out= 232 $0.001549 cum=$0.18678  5.27s
+  t 9 prompt= 197937 cached= 197824 ( 99.9%) out= 300 $0.001581 cum=$0.18836  6.45s
+  t10 prompt= 197950 cached= 197888 (100.0%) out= 236 $0.001489 cum=$0.18985  6.38s
+  t11 prompt= 198027 cached=      0 (  0.0%) out= 246 $0.059703 cum=$0.24955 19.16s
+  t12 prompt= 198086 cached= 198016 (100.0%) out= 231 $0.001486 cum=$0.25104  4.64s
+  t13 prompt= 198142 cached= 197632 ( 99.7%) out= 246 $0.001634 cum=$0.25267  5.27s
+  t14 prompt= 198203 cached= 198080 ( 99.9%) out= 300 $0.001585 cum=$0.25426  6.08s
+  t15 prompt= 198215 cached= 198144 (100.0%) out= 290 $0.001558 cum=$0.25582  7.70s
+
+[DeepSeek V4 Flash 0731] moby @ ~200000 tok
+  t 1 prompt= 201907 cached=      0 (  0.0%) out= 300 $0.016228 cum=$0.01623 25.30s
+  t 2 prompt= 201921 cached=      0 (  0.0%) out= 300 $0.016229 cum=$0.03246 24.96s
+  t 3 prompt= 201934 cached= 201728 ( 99.9%) out= 300 $0.005176 cum=$0.03763 10.81s
+  t 4 prompt= 201948 cached=      0 (  0.0%) out= 300 $0.016231 cum=$0.05386 24.12s
+  t 5 prompt= 201962 cached=      0 (  0.0%) out= 300 $0.016233 cum=$0.07010 25.50s
+  t 6 prompt= 201974 cached= 201728 ( 99.9%) out= 300 $0.005179 cum=$0.07528 11.58s
+  t 7 prompt= 201987 cached=      0 (  0.0%) out= 300 $0.016235 cum=$0.09151 24.59s
+  t 8 prompt= 201997 cached=      0 (  0.0%) out= 300 $0.016235 cum=$0.10775 26.09s
+  t 9 prompt= 202009 cached= 201728 ( 99.9%) out= 300 $0.005182 cum=$0.11293 10.86s
+  t10 prompt= 202022 cached= 201984 (100.0%) out= 300 $0.005169 cum=$0.11810 11.28s
+  t11 prompt= 202035 cached= 201984 (100.0%) out= 300 $0.005170 cum=$0.12327 11.56s
+  t12 prompt= 202053 cached= 201728 ( 99.8%) out= 300 $0.005185 cum=$0.12845 10.40s
+  t13 prompt= 202102 cached= 201984 ( 99.9%) out= 300 $0.005175 cum=$0.13363 11.89s
+  t14 prompt= 202120 cached= 201984 ( 99.9%) out= 300 $0.005176 cum=$0.13880 10.85s
+  t15 prompt= 202132 cached= 201984 ( 99.9%) out= 300 $0.005177 cum=$0.14398 11.26s
+
+[DeepSeek V4 Flash 0731] quixote @ ~200000 tok
+  t 1 prompt= 200425 cached=      0 (  0.0%) out= 300 $0.016110 cum=$0.01611 24.34s
+  t 2 prompt= 200439 cached=      0 (  0.0%) out= 300 $0.016111 cum=$0.03222 24.89s
+  t 3 prompt= 200452 cached=      0 (  0.0%) out= 300 $0.016112 cum=$0.04833 25.03s
+  t 4 prompt= 200466 cached= 200448 (100.0%) out= 300 $0.005128 cum=$0.05346 11.78s
+  t 5 prompt= 200480 cached=      0 (  0.0%) out= 300 $0.016114 cum=$0.06957 24.56s
+  t 6 prompt= 200492 cached=      0 (  0.0%) out= 300 $0.016115 cum=$0.08569 24.69s
+  t 7 prompt= 200505 cached=      0 (  0.0%) out= 300 $0.016116 cum=$0.10181 23.82s
+  t 8 prompt= 200515 cached= 200448 (100.0%) out= 300 $0.005132 cum=$0.10694 10.46s
+  t 9 prompt= 200527 cached=      0 (  0.0%) out= 300 $0.016118 cum=$0.12306 23.95s
+  t10 prompt= 200540 cached= 200448 (100.0%) out= 300 $0.005134 cum=$0.12819 10.47s
+  t11 prompt= 200553 cached= 200448 ( 99.9%) out= 300 $0.005135 cum=$0.13332 10.99s
+  t12 prompt= 200571 cached= 200448 ( 99.9%) out= 300 $0.005137 cum=$0.13846 10.75s
+  t13 prompt= 200585 cached= 200448 ( 99.9%) out= 300 $0.005138 cum=$0.14360 10.87s
+  t14 prompt= 200603 cached= 200448 ( 99.9%) out= 300 $0.005139 cum=$0.14874 10.96s
+  t15 prompt= 200615 cached= 200448 ( 99.9%) out= 300 $0.005140 cum=$0.15388 10.59s
+
+[DeepSeek V4 Flash 0731] warpeace @ ~200000 tok
+  t 1 prompt= 197607 cached=      0 (  0.0%) out= 300 $0.015884 cum=$0.01588 24.18s
+  t 2 prompt= 197621 cached=      0 (  0.0%) out= 300 $0.015885 cum=$0.03177 29.05s
+  t 3 prompt= 197634 cached=      0 (  0.0%) out= 300 $0.015886 cum=$0.04766 24.39s
+  t 4 prompt= 197648 cached=      0 (  0.0%) out= 300 $0.015887 cum=$0.06354 24.89s
+  t 5 prompt= 197662 cached= 197632 (100.0%) out= 300 $0.005058 cum=$0.06860 11.17s
+  t 6 prompt= 197674 cached= 197376 ( 99.8%) out= 300 $0.005073 cum=$0.07367 10.57s
+  t 7 prompt= 197687 cached=      0 (  0.0%) out= 300 $0.015891 cum=$0.08957 23.94s
+  t 8 prompt= 197697 cached= 197632 (100.0%) out= 300 $0.005061 cum=$0.09463 10.43s
+  t 9 prompt= 197709 cached= 197632 (100.0%) out= 300 $0.005062 cum=$0.09969 10.57s
+  t10 prompt= 197722 cached= 197632 (100.0%) out= 300 $0.005063 cum=$0.10475 10.08s
+  t11 prompt= 197735 cached= 197632 ( 99.9%) out= 300 $0.005064 cum=$0.10982 10.55s
+  t12 prompt= 197753 cached=      0 (  0.0%) out= 250 $0.015883 cum=$0.12570 22.75s
+  t13 prompt= 197828 cached= 197632 ( 99.9%) out= 300 $0.005072 cum=$0.13077 11.12s
+  t14 prompt= 197846 cached= 197632 ( 99.9%) out= 300 $0.005073 cum=$0.13584 10.97s
+  t15 prompt= 197858 cached= 197632 ( 99.9%) out= 300 $0.005074 cum=$0.14092 11.00s
+
+[GLM-5.3 Flash] moby @ ~200000 tok
+  t 1 prompt= 200954 cached=      0 (  0.0%) out= 154 $0.030220 cum=$0.03022  6.72s
+  t 2 prompt= 201108 cached= 200448 ( 99.7%) out= 123 $0.006174 cum=$0.03639  3.10s
+  t 3 prompt= 201218 cached= 200448 ( 99.6%) out= 300 $0.006279 cum=$0.04267 20.31s
+  t 4 prompt= 201524 cached= 200448 ( 99.5%) out= 131 $0.006240 cum=$0.04891  6.62s
+  t 5 prompt= 201641 cached= 200448 ( 99.4%) out= 300 $0.006342 cum=$0.05526  6.71s
+  t 6 prompt= 201886 cached= 201600 ( 99.9%) out= 300 $0.006241 cum=$0.06150  8.43s
+  t 7 prompt= 202191 cached= 201600 ( 99.7%) out= 300 $0.006287 cum=$0.06778  8.12s
+  t 8 prompt= 202501 cached= 201600 ( 99.6%) out= 297 $0.006332 cum=$0.07411  6.97s
+  t 9 prompt= 202778 cached= 201600 ( 99.4%) out= 300 $0.006375 cum=$0.08049 10.30s
+  t10 prompt= 202791 cached= 202752 (100.0%) out= 273 $0.006225 cum=$0.08671  5.80s
+  t11 prompt= 203071 cached= 202752 ( 99.8%) out=  35 $0.006148 cum=$0.09286  1.69s
+  t12 prompt= 203122 cached= 202752 ( 99.8%) out= 270 $0.006273 cum=$0.09914  7.10s
+  t13 prompt= 203401 cached= 202752 ( 99.7%) out= 239 $0.006299 cum=$0.10543  4.47s
+  t14 prompt= 203608 cached= 202752 ( 99.6%) out= 300 $0.006361 cum=$0.11180  6.55s
+  t15 prompt= 203903 cached= 202752 ( 99.4%) out= 114 $0.006312 cum=$0.11811  6.12s
+
+[GLM-5.3 Flash] quixote @ ~200000 tok
+  t 1 prompt= 199360 cached=      0 (  0.0%) out= 140 $0.029974 cum=$0.02997  9.83s
+  t 2 prompt= 199499 cached= 199296 ( 99.9%) out= 117 $0.006068 cum=$0.03604  2.97s
+  t 3 prompt= 199614 cached= 199296 ( 99.8%) out= 265 $0.006159 cum=$0.04220  4.92s
+  t 4 prompt= 199884 cached= 199296 ( 99.7%) out= 143 $0.006139 cum=$0.04834  6.23s
+  t 5 prompt= 199981 cached= 199296 ( 99.7%) out= 300 $0.006232 cum=$0.05457  5.53s
+  t 6 prompt= 200267 cached= 199296 ( 99.5%) out= 300 $0.006275 cum=$0.06085  4.92s
+  t 7 prompt= 200564 cached= 199296 ( 99.4%) out= 300 $0.006319 cum=$0.06716  6.00s
+  t 8 prompt= 200874 cached= 200448 ( 99.8%) out= 219 $0.006187 cum=$0.07335  3.71s
+  t 9 prompt= 201097 cached= 200448 ( 99.7%) out= 300 $0.006261 cum=$0.07961  5.09s
+  t10 prompt= 201300 cached= 200448 ( 99.6%) out= 182 $0.006232 cum=$0.08584  3.80s
+  t11 prompt= 201477 cached= 200448 ( 99.5%) out=  45 $0.006190 cum=$0.09203  2.45s
+  t12 prompt= 201538 cached= 200448 ( 99.5%) out= 271 $0.006312 cum=$0.09835  8.67s
+  t13 prompt= 201811 cached= 200448 ( 99.3%) out= 194 $0.006315 cum=$0.10466  6.65s
+  t14 prompt= 201963 cached= 201600 ( 99.8%) out= 252 $0.006228 cum=$0.11089  8.74s
+  t15 prompt= 202225 cached= 201600 ( 99.7%) out=  99 $0.006191 cum=$0.11708  2.96s
+
+[GLM-5.3 Flash] warpeace @ ~200000 tok
+  t 1 prompt= 195541 cached=      0 (  0.0%) out= 230 $0.029446 cum=$0.02945  8.46s
+  t 2 prompt= 195763 cached= 194688 ( 99.5%) out= 176 $0.006090 cum=$0.03554  4.63s
+  t 3 prompt= 195854 cached= 194688 ( 99.4%) out= 300 $0.006166 cum=$0.04170  7.58s
+  t 4 prompt= 196163 cached= 195840 ( 99.8%) out= 123 $0.005985 cum=$0.04769  2.98s
+  t 5 prompt= 196291 cached= 195840 ( 99.8%) out= 300 $0.006093 cum=$0.05378  7.77s
+  t 6 prompt= 196554 cached= 195840 ( 99.6%) out= 300 $0.006132 cum=$0.05991  5.61s
+  t 7 prompt= 196866 cached= 195840 ( 99.5%) out= 300 $0.006179 cum=$0.06609  6.97s
+  t 8 prompt= 197176 cached= 196992 ( 99.9%) out= 286 $0.006080 cum=$0.07217  4.73s
+  t 9 prompt= 197436 cached= 196992 ( 99.8%) out= 300 $0.006126 cum=$0.07830  6.08s
+  t10 prompt= 197566 cached= 196992 ( 99.7%) out= 261 $0.006126 cum=$0.08442  6.41s
+  t11 prompt= 197829 cached= 196992 ( 99.6%) out=  88 $0.006079 cum=$0.09050  2.12s
+  t12 prompt= 197903 cached= 196992 ( 99.5%) out= 223 $0.006158 cum=$0.09666  4.20s
+  t13 prompt= 198131 cached= 196992 ( 99.4%) out= 136 $0.006149 cum=$0.10281  3.14s
+  t14 prompt= 198283 cached= 198144 ( 99.9%) out= 300 $0.006115 cum=$0.10893  5.72s
+  t15 prompt= 198594 cached= 198144 ( 99.8%) out=  96 $0.006060 cum=$0.11498  2.49s
+

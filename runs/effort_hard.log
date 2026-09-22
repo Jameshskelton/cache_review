@@ -1,0 +1,11 @@
+/Users/jamesskelton/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Logging to runs/effort_hard.jsonl
+20 items x 4 buckets x 3 reps = 240 calls
+
+   low  n=60   acc=100.0%  mean_out=   756.6  mean_reasoning=   753.0
+  high  n=60   acc=100.0%  mean_out=   912.8  mean_reasoning=   909.2
+ xhigh  n=60   acc=100.0%  mean_out=  1338.2  mean_reasoning=  1334.6
+   max  n=60   acc= 98.3%  mean_out=  1439.7  mean_reasoning=  1436.2
+
+If mean_reasoning is 0 everywhere, the deployment isn't reporting reasoning_tokens; check whether 'reasoning_estimated' is true in the log, and if not, fall back to comparing completion_tokens only.
